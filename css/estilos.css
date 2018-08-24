@@ -1,0 +1,14 @@
+body{
+	background: yellow;
+}
+
+h1{
+	font-family: 'Indie Flower', cursive;
+    font-family: 'Roboto', sans-serif;
+	font-size:75px;
+	text-align:center; 
+}
+img{
+	width:1500px;
+	height:auto; 
+}
